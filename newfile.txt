@@ -1,3 +1,4 @@
 newfile
+a new line hello
 a new line
 a new line world
