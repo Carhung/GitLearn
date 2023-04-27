@@ -1,4 +1,5 @@
 newfile
-a new line hello
-a new line +
-a new line world
+a new line hllo
+a new line +-
+a new line 2
+two change
