@@ -4,3 +4,4 @@ a new line +-
 a new line 2
 two change
 master change 
+dev change merge master 
